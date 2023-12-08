@@ -60,12 +60,12 @@ Visitor Count:\
 
 ## 参与科研期间的论文列表：
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
+[链接](https://doi.org/10.1140/epjp/s13360-022-02708-5)
 
-https://doi.org/10.1140/epjp/s13360-022-02708-5
 
 2.Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
+[链接](https://doi.org/10.1140/epjp/s13360-022-03372-5)
 
-https://doi.org/10.1140/epjp/s13360-022-03372-5
 
 
 ## 课外活动：
