@@ -54,8 +54,8 @@
 课题：Interactions in Kombucha and Biofilm Applications<br />（Best Award，入选长期培养计划）
 <br />
 <br />
-- 2023.10-：
-学习非晶固体和软物质物理，暂无项目，处于了解学习阶段，主要交流导师是中国科学技术大学童华教授和松山湖材料实验室尚宝双、赵勇研究员（深圳零一学院长期培养计划项目导师）
+- 2023.10-：非晶固体物理与软物质物理<br/>
+处于了解学习阶段，主要交流导师是中国科学技术大学童华教授和松山湖材料实验室尚宝双、赵勇研究员（深圳零一学院长期培养计划项目导师）
 
 ## 参与科研期间的论文列表：
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
