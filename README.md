@@ -1,5 +1,5 @@
 # 欢迎来到王云志的个人主页！
-
+![本地图片](R.jpg)
 - 如果你想查看英文版主页:  [请点击这里](https://phywyz-ustc.github.io/)
 <br />
 - If you want to view my homepage written in English: [Click here](https://phywyz-ustc.github.io/)
