@@ -3,15 +3,9 @@
 - 如果你想查看英文版主页:  [请点击这里](https://phywyz-ustc.github.io/)
 - If you want to view my homepage written in English: [Click here](https://phywyz-ustc.github.io/)
 <br />
-
-<div style="position: absolute; top: 0; right: 0;">
-  <img src="https://www.bing.com/images/search?q=%E7%99%BE%E5%BA%A6%E5%9B%BE%E7%89%87&FORM=IQFRBA&id=020CE8D2AB79D815C00DB5524A06352DC0EDF3AC" alt="" width="100" height="100">
-</div>
   
 Visitor Count:\
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
-
-
 
 ## 基本信息
 - 姓名:    王云志
@@ -44,26 +38,34 @@ Visitor Count:\
 
 ## 科研与学习经历：
 - 2021.9 - 2022.10：交通流中的非平衡相变
+<br />
 导师：王玉青（中国科学技术大学工程学院）
+<br />
 课题：TASEP理论在交通流和分子马达输运中的应用
 <br />
-- 2022.11 - 2023.6：人工智能语音信息处理 
+- 2022.11 - 2023.6：人工智能语音信息处理
+<br />
 导师：宋彦（中国科学技术大学信息学院）
+<br />
 课题：基于模型预训练的语音情感识别（课题未结题）
 <br />
 - 2023.7-2023.8：  深圳零一学院（X-Institute）清华钱班国际暑期学校
+<br />
 导师：Jeff Gore，胡脊梁，Juan Keymer
+<br />
 课题：Interactions in Kombucha and Biofilm Applications<br />（Best Award，入选长期培养计划）
-
+<br />
 - 2023.10-：
 学习非晶固体和软物质物理，暂无项目，处于了解学习阶段，主要交流导师是中国科学技术大学童华教授和松山湖材料实验室尚宝双、赵勇研究员（深圳零一学院长期培养计划项目导师）
 
 ## 参与科研期间的论文列表：
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
+<br />
 [链接](https://doi.org/10.1140/epjp/s13360-022-02708-5)
 
 
 2.Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
+<br />
 [链接](https://doi.org/10.1140/epjp/s13360-022-03372-5)
 
 
