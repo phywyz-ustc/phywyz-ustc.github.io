@@ -5,6 +5,7 @@
 <br />
   
 - 访客统计
+<br />
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
 
 ## 基本信息
@@ -38,23 +39,17 @@
 
 ## 科研与学习经历：
 - 2021.9 - 2022.10：交通流中的非平衡相变
-<br />
 导师：王玉青（中国科学技术大学工程学院）
-<br />
 课题：TASEP理论在交通流和分子马达输运中的应用
 <br />
 <br />
 - 2022.11 - 2023.6：人工智能语音信息处理
-<br />
 导师：宋彦（中国科学技术大学信息学院）
-<br />
 课题：基于模型预训练的语音情感识别（课题未结题）
 <br />
 <br />
 - 2023.7-2023.8：  深圳零一学院（X-Institute）清华钱班国际暑期学校
-<br />
 导师：Jeff Gore，胡脊梁，Juan Keymer
-<br />
 课题：Interactions in Kombucha and Biofilm Applications<br />（Best Award，入选长期培养计划）
 <br />
 <br />
