@@ -1,5 +1,5 @@
 # 欢迎来到王云志的个人主页！
-
+![bendi](R.jpg)
 - 如果你想查看英文版主页:  [请点击这里](https://phywyz-ustc.github.io/)
 <br />
 - If you want to view my homepage written in English: [Click here](https://phywyz-ustc.github.io/)
@@ -8,10 +8,6 @@
 - 访客统计
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
-
-
-<div style="display: flex; align-items: center;">
-  <div style="width: 70%;">
 
 
 ## 基本信息
@@ -78,10 +74,3 @@
 - 2022-2023学年任物理学院青年志愿者协会负责人
 - 2023-2024学年任物理学院青年志愿者协会会长
 - 2023年秋季学期任“概率论与数理统计”课程助教
-
-  </div>
-  
-  <div style="width: 30%;">
-    <img src="R.jpg" alt="本地图片" style="width: 100%; height: auto;">
-  </div>
-</div>
