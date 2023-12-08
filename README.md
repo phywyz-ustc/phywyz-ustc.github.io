@@ -82,6 +82,6 @@
   </div>
   
   <div style="width: 30%;">
-    <img src="image.jpg" alt="本地图片" style="width: 100%; height: auto;">
+    <img src="R.jpg" alt="本地图片" style="width: 100%; height: auto;">
   </div>
 </div>
