@@ -4,7 +4,7 @@
 - If you want to view my homepage written in English: [Click here](https://phywyz-ustc.github.io/)
 <br />
   
-Visitor Count:\
+- 访客统计
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
 
 ## 基本信息
