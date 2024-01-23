@@ -26,12 +26,12 @@
 - GPA：3.31/4.3
 - Ranking：88/170 (GPA=3.22)
 - Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics
-## Research Interests：
+## Research Interests
 - Soft Matter Physics
 - Traffic Flow and Transport Theory
 - Collective Motion in Biology
 
-## Research Experence：
+## Research Experence
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
 Tutor：Yuqing Wang（School of Engineer, USTC）<br />
 Project：TASEP Theory in Traffic Flow and Molecular Motor Transport
@@ -54,7 +54,7 @@ Tutor: Hua Tong (School of Physics, USTC)
 - 2023FALL：Teaching Assistant, Probability Theory and Mathematical Statistics<br />
 ## Awards
 - Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
-## Publications：
+## Publications
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
 <br />
 [Link](https://doi.org/10.1140/epjp/s13360-022-02708-5)
@@ -63,6 +63,6 @@ Tutor: Hua Tong (School of Physics, USTC)
 <br />
 [Link](https://doi.org/10.1140/epjp/s13360-022-03372-5)
 
-## School Life：
+## School Life
 - 2022-2023: Association of Youth Volunteers of School of Physics, Head
 - 2023-2024: Association of Youth Volunteers of School of Physics, President
