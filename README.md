@@ -26,6 +26,7 @@
 - GPA：3.31/4.3
 - Ranking：88/170 (GPA=3.22)
 - Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics
+
 ## Research Interests
 - Soft Matter Physics
 - Traffic Flow and Transport Theory
@@ -52,8 +53,10 @@ Tutor: Hua Tong (School of Physics, USTC)
 
 ## Teaching Experience
 - 2023FALL：Teaching Assistant, Probability Theory and Mathematical Statistics<br />
+
 ## Awards
 - Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
+
 ## Publications
 - Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
 [Link](https://doi.org/10.1140/epjp/s13360-022-02708-5)
