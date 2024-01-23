@@ -30,7 +30,7 @@
 - Traffic Flow and Transport Theory
 - Collective Motion in Biology
 
-## Research Experence
+## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
 Tutor：Yuqing Wang（School of Engineer, USTC）<br />
 Project：TASEP Theory in Traffic Flow and Molecular Motor Transport
@@ -49,7 +49,7 @@ Project：Interactions in Kombucha and Biofilm Applications（Best Award）
 - 2023.10-：Soft Matter Physics<br/>
 Tutor: Hua Tong (School of Physics, USTC)
 
-## Teaching Experience
+## Teaching Experiences
 - 2023FALL：Teaching Assistant, Probability Theory and Mathematical Statistics<br />
 
 ## Awards
