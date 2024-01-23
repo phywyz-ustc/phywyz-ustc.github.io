@@ -2,8 +2,6 @@
 ![bendi](R.jpg)
 
 <br />
-  
-- 访客统计
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
 
