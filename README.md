@@ -11,7 +11,7 @@
 ## Basic Information
 - Name: Yunzhi Wang (王云志)
 <br />
-- Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China , 2021.9 - 2025.6(expected)
+- Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6(expected)
 <br />
 - Major：  Applied Physics (Condensed Matter Physics)
 
@@ -25,9 +25,7 @@
 ## Courses
 - GPA：3.31/4.3
 - Ranking：88/170 (GPA=3.22)
-- Fellowship: Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
-
-
+- Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics
 ## Research Interests：
 - Soft Matter Physics
 - Traffic Flow and Transport Theory
@@ -54,18 +52,16 @@ Tutor: Hua Tong (School of Physics, USTC)
 
 ## Teaching Experience
 - 2023FALL：Teaching Assistant, Probability Theory and Mathematical Statistics<br />
-
+## Awards
+- Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
 ## Publications：
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
 <br />
 [Link](https://doi.org/10.1140/epjp/s13360-022-02708-5)
 
-
 2.Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
 <br />
 [Link](https://doi.org/10.1140/epjp/s13360-022-03372-5)
-
-
 
 ## School Life：
 - 2022-2023: Association of Youth Volunteers of School of Physics, Head
