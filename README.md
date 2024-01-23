@@ -56,11 +56,9 @@ Tutor: Hua Tong (School of Physics, USTC)
 - Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
 ## Publications
 - Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
-<br />
 [Link](https://doi.org/10.1140/epjp/s13360-022-02708-5)
-
-- Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
 <br />
+- Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
 [Link](https://doi.org/10.1140/epjp/s13360-022-03372-5)
 
 ## School Life
