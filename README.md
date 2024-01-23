@@ -25,7 +25,7 @@
 ## Courses
 - GPA：3.31/4.3
 - Ranking：88/170 (GPA=3.22)
-- Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics
+- Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics, Computational Method
 
 ## Research Interests
 - Soft Matter Physics
@@ -39,7 +39,7 @@ Project：TASEP Theory in Traffic Flow and Molecular Motor Transport
 <br />
 <br />
 - 2022.11 - 2023.6：Audio Information Processing with AI<br />
-Turor：Yan Song（School of Information, USTC）<br />
+Tutor：Yan Song（School of Information, USTC）<br />
 Project：Research on Speech Emotion Recognition Based on the Model Pre-training（Unfinished）
 <br />
 <br />
