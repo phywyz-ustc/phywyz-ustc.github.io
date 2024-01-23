@@ -11,7 +11,7 @@
 ## Basic Information
 - Name: Yunzhi Wang (王云志)
 <br />
-- Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6(expected)
+- Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China , 2021.9 - 2025.6(expected)
 <br />
 - Major：  Applied Physics (Condensed Matter Physics)
 
@@ -50,7 +50,7 @@ Project：Interactions in Kombucha and Biofilm Applications（Best Award）
 <br />
 <br />
 - 2023.10-：Soft Matter Physics<br/>
-Tutor: Hua Tong(School of Physics, USTC)
+Tutor: Hua Tong (School of Physics, USTC)
 
 ## Teaching Experience
 - 2023FALL：Teaching Assistant, Probability Theory and Mathematical Statistics<br />
@@ -58,12 +58,12 @@ Tutor: Hua Tong(School of Physics, USTC)
 ## Publications：
 1.Nonequilibrium phase transitions in a two-channel ASEP with binding energies and analytical evaluations via Kullback-Leibler divergence
 <br />
-[链接](https://doi.org/10.1140/epjp/s13360-022-02708-5)
+[Link](https://doi.org/10.1140/epjp/s13360-022-02708-5)
 
 
 2.Study of nonequilibrium phase transitions mechanisms in exclusive network and node model of heterogeneous assignment based on real experimental data of KIF3AC and KIF3CC motors
 <br />
-[链接](https://doi.org/10.1140/epjp/s13360-022-03372-5)
+[Link](https://doi.org/10.1140/epjp/s13360-022-03372-5)
 
 
 
