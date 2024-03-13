@@ -1,7 +1,8 @@
 # Welcome to Yunzhi Wang's homepage!
 ![bendi](R.jpg)
-[View my CV as PDF](https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf)
 <br />
+[View my CV as PDF](https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf)
+
 <br />
 ![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
 
