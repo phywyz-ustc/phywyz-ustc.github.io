@@ -13,6 +13,7 @@
 <br />
 - Major：  Applied Physics (Condensed Matter Physics)
 <a href="https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf"
+[View My CV as PDF](https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf)
 
 ## Contact
 - E-mail:    ustc23and6@mail.ustc.edu.cn
