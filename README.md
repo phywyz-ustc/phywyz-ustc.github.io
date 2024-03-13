@@ -28,8 +28,9 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 - Ranking：88/170 (GPA=3.22)
 - Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics, Computational Method
 
-## Research Interests
+## Research & Study Interests
 - Soft Matter Physics
+- Active Matter Near Jamming
 - Traffic Flow and Transport Theory
 - Collective Motion in Biology
 
@@ -45,7 +46,7 @@ Project：Research on Speech Emotion Recognition Based on the Model Pre-training
 <br />
 <br />
 - 2023.7-2023.8： X-Institute, Shenzhen (Summer School)<br />
-Tutor：Jeff Gore，Hu Jiliang (track tutor); Juan Keymer (group tutor)<br />
+Tutor：Jeff Gore，Hu Jiliang (track tutor); Juan Keymer, Janneke Noorlag (group tutor)<br />
 Project：Interactions in Kombucha and Biofilm Applications（Best Award）
 <br />
 <br />
