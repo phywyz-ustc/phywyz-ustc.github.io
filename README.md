@@ -12,6 +12,7 @@
 - Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6 (expected)
 <br />
 - Major：  Applied Physics (Condensed Matter Physics)
+<a href="https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf"
 
 ## Contact
 - E-mail:    ustc23and6@mail.ustc.edu.cn
