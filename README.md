@@ -26,14 +26,14 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
 ## Courses
 - GPA：3.32/4.3
-- Ranking：88/170 (GPA=3.22)
+- Ranking：87/174 (50%)
 - Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics, Computational Method
 
 ## Research & Study Interests
-- Soft Matter Physics
-- Active Matter Near Jamming
+- Active Matter
+- Jamming transition
+- Synchronization & Collective Motion
 - Traffic Flow and Transport Theory
-- Collective Motion in Biology
 
 ## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
@@ -58,6 +58,7 @@ Tutor: Hua Tong (School of Physics, USTC)
 - 2023FALL：Teaching Assistant, USTC, Hefei, China<br/>Course: Probability Theory and Mathematical Statistics<br/>Teacher: Wei-wei Zhuang
 <br />
 - 2024.1  : Teaching Assistant, X-Institute, Shenzhen, China<br/>Course: AFM & Surface Physics (Track3, Winter Camp for High School Students)<br/>Teacher: Alessandro Siria, Ming Ma
+
 ## Awards
 - Outstanding Student Scholarship (Grade 1/Gold), 2021FA-2022AU
 
