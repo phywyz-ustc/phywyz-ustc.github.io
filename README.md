@@ -43,7 +43,8 @@ Project: TASEP Theory in Traffic Flow and Molecular Motor Transport.
 <br />
 <br />
 - 2023.7-2023.8： X-Institute, Shenzhen (Summer School)<br />
-Advisor: Jeff Gore，Hu Jiliang (track); Juan Keymer, Janneke Noorlag(group)<br />
+Track Advisor: Jeff Gore(MIT), Hu Jiliang(Tsinghua University)
+Group Advisor: Juan Keymer & Janneke Noorlag(X-Institute)<br />
 Project: Interactions in Kombucha and Biofilm Applications.（Best Award）
 <br />
 <br />
