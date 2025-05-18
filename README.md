@@ -10,19 +10,21 @@
 ## Basic Information
 - Name: Yunzhi Wang (王云志)
 <br />
-- Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6 (expected)
+- Education: Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6 (expected)
 <br />
-- Major：  Applied Physics (Condensed Matter Physics/Biological Physics)
+- Major: Applied Physics (Condensed Matter Physics/Biological Physics)
 
 ## Contact
-- E-mail:    ustc23and6@mail.ustc.edu.cn
+- E-mail:  ustc23and6@mail.ustc.edu.cn
+
+- Alternative E-mail: 2166994712@qq.com
 
 - Mailing Address:  University of Science and Technology of China(East Campus),
 No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
-- WeChat:    wmdawlx
+- WeChat:  wmdawlx
 
-- TEL:        (+86) 198 3852 5650
+- TEL:  (+86) 198 3852 5650
 
 ## Courses
 - GPA：3.2/4.3
