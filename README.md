@@ -39,12 +39,12 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 ## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
 Advisor: Yuqing Wang（School of Engineering, USTC）<br />
-Project：TASEP Theory in Traffic Flow and Molecular Motor Transport.
+Project: TASEP Theory in Traffic Flow and Molecular Motor Transport.
 <br />
 <br />
 - 2023.7-2023.8： X-Institute, Shenzhen (Summer School)<br />
 Advisor: Jeff Gore，Hu Jiliang (track); Juan Keymer, Janneke Noorlag(group)<br />
-Project：Interactions in Kombucha and Biofilm Applications.（Best Award）
+Project: Interactions in Kombucha and Biofilm Applications.（Best Award）
 <br />
 <br />
 - 2023.10-：Soft Matter Physics<br/>
