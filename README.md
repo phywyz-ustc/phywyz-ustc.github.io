@@ -27,7 +27,7 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 ## Courses
 - GPA：3.2/4.3
 - Ranking：96/165 (58%)
-- Key Courses Taken: Advanced Statistical Physics(92); Computational Physics(92); Biological Physics(93); Mathematical Analysis(B1:90, B2；92), Linear Algebra(93), Probability Theory and Mathematical Statistics(90).
+- Key Courses Taken: Advanced Statistical Physics(92); Computational Physics(92); Biological Physics(93); Mathematical Analysis(B1:90, B2:92); Linear Algebra(93); Probability Theory and Mathematical Statistics(90).
 
 ## Research & Study Interests
 - Active Matter
@@ -47,7 +47,7 @@ Project：Interactions in Kombucha and Biofilm Applications.（Best Award）
 <br />
 <br />
 - 2023.10-：Soft Matter Physics<br/>
-Advisor: Hua Tong (School of Physics, USTC)
+Advisor: Hua Tong (School of Physics, USTC)<br />
 Project: Simulation-Based Research on Statistical Physics of Biological Tissues Model.
 
 ## Teaching Experiences
