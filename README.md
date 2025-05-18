@@ -26,6 +26,7 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
 ## Courses
 - GPA：3.2/4.3
+- Weighted Average & Average: 82.37 & 83.38
 - Ranking：96/165 (58%)
 - Key Courses Taken: Advanced Statistical Physics(92); Computational Physics(92); Biological Physics(93); Mathematical Analysis(B1:90, B2:92); Linear Algebra(93); Probability Theory and Mathematical Statistics(90).
 
@@ -37,12 +38,12 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
 ## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
-Advisor：Yuqing Wang（School of Engineering, USTC）<br />
+Advisor: Yuqing Wang（School of Engineering, USTC）<br />
 Project：TASEP Theory in Traffic Flow and Molecular Motor Transport.
 <br />
 <br />
 - 2023.7-2023.8： X-Institute, Shenzhen (Summer School)<br />
-Advisor：Jeff Gore，Hu Jiliang (track); Juan Keymer, Janneke Noorlag(group)<br />
+Advisor: Jeff Gore，Hu Jiliang (track); Juan Keymer, Janneke Noorlag(group)<br />
 Project：Interactions in Kombucha and Biofilm Applications.（Best Award）
 <br />
 <br />
