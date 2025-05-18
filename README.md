@@ -12,7 +12,7 @@
 <br />
 - Education：  Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6 (expected)
 <br />
-- Major：  Applied Physics (Condensed Matter Physics)
+- Major：  Applied Physics (Condensed Matter Physics/Biological Physics)
 
 ## Contact
 - E-mail:    ustc23and6@mail.ustc.edu.cn
@@ -20,14 +20,14 @@
 - Mailing Address:  University of Science and Technology of China(East Campus),
 No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
-- WeChat:    zzly76
+- WeChat:    wmdawlx
 
 - TEL:        (+86) 198 3852 5650
 
 ## Courses
-- GPA：3.32/4.3
-- Ranking：87/174 (50%)
-- Key Courses Taken: Advanced Statistical Physics, Quantum Mechanics, Theoretical Mechanics, Computational Physics; Mathematical Analysis, Linear Algebra, Probability Theory and Mathematical Statistics, Computational Method
+- GPA：3.2/4.3
+- Ranking：96/165 (58%)
+- Key Courses Taken: Advanced Statistical Physics(92); Computational Physics(92); Biological Physics(93); Mathematical Analysis(B1:90, B2；92), Linear Algebra(93), Probability Theory and Mathematical Statistics(90).
 
 ## Research & Study Interests
 - Active Matter
@@ -37,22 +37,18 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 
 ## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
-Tutor：Yuqing Wang（School of Engineering, USTC）<br />
-Project：TASEP Theory in Traffic Flow and Molecular Motor Transport
-<br />
-<br />
-- 2022.11 - 2023.6：Audio Information Processing with AI<br />
-Tutor：Yan Song（School of Information, USTC）<br />
-Project：Research on Speech Emotion Recognition Based on the Model Pre-training（Unfinished）
+Advisor：Yuqing Wang（School of Engineering, USTC）<br />
+Project：TASEP Theory in Traffic Flow and Molecular Motor Transport.
 <br />
 <br />
 - 2023.7-2023.8： X-Institute, Shenzhen (Summer School)<br />
-Tutor：Jeff Gore，Hu Jiliang (track tutor); Juan Keymer, Janneke Noorlag (group tutor)<br />
-Project：Interactions in Kombucha and Biofilm Applications（Best Award）
+Advisor：Jeff Gore，Hu Jiliang (track); Juan Keymer, Janneke Noorlag(group)<br />
+Project：Interactions in Kombucha and Biofilm Applications.（Best Award）
 <br />
 <br />
 - 2023.10-：Soft Matter Physics<br/>
-Tutor: Hua Tong (School of Physics, USTC)
+Advisor: Hua Tong (School of Physics, USTC)
+Project: Simulation-Based Research on Statistical Physics of Biological Tissues Model.
 
 ## Teaching Experiences
 - 2023FALL：Teaching Assistant, USTC, Hefei, China<br/>Course: Probability Theory and Mathematical Statistics<br/>Teacher: Wei-wei Zhuang
