@@ -4,15 +4,18 @@
 [View my CV as PDF](https://github.com/phywyz-ustc/phywyz-ustc.github.io/blob/main/CV_Yunzhi.pdf)
 
 <br />
-![Visitor Count](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
+![Count of Visitors](https://profile-counter.glitch.me/phywyz-ustc/count.svg)
 
 
 ## Basic Information
 - Name: Yunzhi Wang (王云志)
 <br />
-- Education: Chung-Yao Chao Talent Program in Applied Physics，School of Physics, University of Science and Technology of China, 2021.9 - 2025.6 (expected)
+- Education: 
+  - Bachelor of Science in Applied Physics, **Chung-Yao Chao Talent Program in Applied Physics (Honor)**, School of Physics, University of Science and Technology of China, 2021.9 - 2025.6
+  - Master’s Student, Physics Master’s Program, School of Physics, University of Science and Technology of China, 2025.9 - Present
 <br />
-- Major: Applied Physics (Condensed Matter Physics/Biological Physics)
+- Major: Condensed Matter Physics
+
 
 ## Contact
 - E-mail:  ustc23and6@mail.ustc.edu.cn
@@ -27,16 +30,15 @@ No.96, JinZhai Road Baohe District, Hefei, Anhui, 230026, P.R.China.
 - TEL:  (+86) 198 3852 5650
 
 ## Courses
-- GPA：3.2/4.3
-- Weighted Average & Average: 82.37 & 83.38
-- Ranking：96/165 (58%)
+- GPA：3.27/4.3
+- Weighted Average & Average: 83.3 & 83.86
 - Key Courses Taken: Advanced Statistical Physics(92); Computational Physics(92); Biological Physics(93); Mathematical Analysis(B1:90, B2:92); Linear Algebra(93); Probability Theory and Mathematical Statistics(90).
 
 ## Research & Study Interests
 - Active Matter
-- Jamming transition
+- Jamming transition & Glass transition
 - Synchronization & Collective Motion
-- Traffic Flow and Transport Theory
+- AI for Science
 
 ## Research Experiences
 - 2021.9 - 2022.10：Nonequilibrium Phase Transition<br />
